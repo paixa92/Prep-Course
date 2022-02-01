@@ -1,0 +1,30 @@
+for es una de la expresiones de bucles que tiene incorporado el lenguaje de java script.
+su sintaxis consiste en una palabra clave for seguida de paréntesis y luego llaves.
+dentro de los parentésis primero debemos declarar una variable, mediante la cual se irá repitiendo el bucle
+segundo debemos crear una expresión condicional, el blucle se ejecutará hasta que ésta expresión sea "false".
+y por último incrementamos la variable creada.
+las tres declaraciones dentro de los paréntesis deben estar separadas por un punto y coma.
+
+for (var i = 0; i < 10; i++){
+//declaramos una variable, expresión condicional, incrementamos la variable//
+    return "ésto es un bucle for"
+}.
+
+El operador "AND", "y", se define con dos && evaluando todas las expresiones y devolviendo verdadero si 
+todas las expresiones son true, si alguna o todas las expresiones evaluadas es falsa, el operador devolvera "false".
+
+El operador "OR" , "o" se escribe con dos barras verticales (||), determinará si una de las expresiones 
+es "true", devolviendo "true" si una o ambas espresiones es true, de lo contrario devolverá "false".
+
+El operador lógico "NOT", "no" está escrito con un signo de exclamación ( ! ), éste operador devolverá
+ el valor booleano opuesto de lo que se le pase como parámetro.
+
+
+
+
+
+
+
+
+
+
